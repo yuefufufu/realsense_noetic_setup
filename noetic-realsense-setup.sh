@@ -26,5 +26,3 @@ git clone https://github.com/IntelRealSense/realsense-ros.git
 cd ..
 catkin build
 source ~/.bashrc
-
-roslaunch realsense2_camera demo_pointcloud.launch
