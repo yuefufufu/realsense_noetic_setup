@@ -10,7 +10,9 @@ sudo apt install -y cmake
 ./scripts/patch-realsense-ubuntu-lts.sh
 mkdir build && cd build
 cmake ../
-sudo make clean && make && sudo make install
+sudo make clean
+make
+sudo make install
 sudo ldconfig
 source ~/.bashrc
 
