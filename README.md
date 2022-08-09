@@ -1,6 +1,6 @@
 # realsense_noetic_setup
 
-このスクリプトを実行[bash realsense_noetic_setup.sh]するとubuntu20.04環境にREALSENSEのSDKと、REALSENSE-ROSがインストールされます。
+このスクリプトを実行[bash realsense_noetic_setup.sh]するとubuntu20.04環境にREALSENSEのSDKとREALSENSE-ROSがインストールされます。
 
 最後のlaunchの実行により、動作確認としてrvizが起動します。
 
